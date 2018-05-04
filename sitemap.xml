@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dave-santos.github.io/posts/secure-unique-password/</loc>
+    <lastmod>2018-05-04T01:24:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dave-santos.github.io/posts/guide-to-backup-recovery-seeds-of-crypto-wallets/</loc>
     <lastmod>2018-05-02T05:14:31+00:00</lastmod>
   </url>
@@ -25,13 +30,19 @@
   
   <url>
     <loc>https://dave-santos.github.io/</loc>
-    <lastmod>2018-05-02T05:14:31+00:00</lastmod>
+    <lastmod>2018-05-04T01:24:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dave-santos.github.io/posts/</loc>
-    <lastmod>2018-05-02T05:14:31+00:00</lastmod>
+    <lastmod>2018-05-04T01:24:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dave-santos.github.io/tags/security/</loc>
+    <lastmod>2018-05-04T01:24:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

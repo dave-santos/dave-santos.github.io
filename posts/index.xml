@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Dave Santos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 May 2018 05:14:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 May 2018 01:24:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dave-santos.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Get a Strong, Unique, and Memorable Password for Each Website</title>
+      <link>https://dave-santos.github.io/posts/secure-unique-password/</link>
+      <pubDate>Fri, 04 May 2018 01:24:00 +0000</pubDate>
+      
+      <guid>https://dave-santos.github.io/posts/secure-unique-password/</guid>
+      <description>Recent plaintext password turmoil from huge technology companies such as Github[1] and Twitter[2] made it clear that we should have a unique password for each website. If high profile companies having problem managing our password, can you imagine the smaller one? But the drawback of having unique passwords is that there&amp;rsquo;s a high chance that we will forget them. In this post I will tell you exactly how to choose a strong and unique password yet still easy to be remembered!</description>
+    </item>
     
     <item>
       <title>Complete Guide To Safely Store Recovery Words of Crypto Wallets</title>

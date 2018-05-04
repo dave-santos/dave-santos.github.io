@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dave Santos</title>
-    <link>https://dave-santos.github.io/</link>
-    <description>Recent content on Dave Santos</description>
+    <title>Security on Dave Santos</title>
+    <link>https://dave-santos.github.io/tags/security/</link>
+    <description>Recent content in Security on Dave Santos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 May 2018 01:24:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dave-santos.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dave-santos.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://dave-santos.github.io/posts/secure-unique-password/</guid>
       <description>Recent plaintext password turmoil from huge technology companies such as Github[1] and Twitter[2] made it clear that we should have a unique password for each website. If high profile companies having problem managing our password, can you imagine the smaller one? But the drawback of having unique passwords is that there&amp;rsquo;s a high chance that we will forget them. In this post I will tell you exactly how to choose a strong and unique password yet still easy to be remembered!</description>
-    </item>
-    
-    <item>
-      <title>Complete Guide To Safely Store Recovery Words of Crypto Wallets</title>
-      <link>https://dave-santos.github.io/posts/guide-to-backup-recovery-seeds-of-crypto-wallets/</link>
-      <pubDate>Wed, 02 May 2018 05:14:31 +0000</pubDate>
-      
-      <guid>https://dave-santos.github.io/posts/guide-to-backup-recovery-seeds-of-crypto-wallets/</guid>
-      <description>Crypto wallet comes with recovery words where you can recover the wallet if somehow you lost it. In a way, the recovery words is a secret that you should protect just as much as the wallet itself. This brings a confusion on how to store it due to its importance and vulnerability. But no worry, this guide will walkthrough you on how to keep the recovery words 🤘 👌 .</description>
     </item>
     
   </channel>
